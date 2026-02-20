@@ -6,6 +6,7 @@
 ## 🚀 Passionate Full Stack Developer
 
 ```
+---
 
 ## 👨‍💻 About Me in Detail
 
